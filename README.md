@@ -4,24 +4,6 @@ An enterprise-grade, unified AI Systems Hub hosting advanced Agentic Workflows, 
 
 Built with LangGraph, LangChain, Google Gemini, FAISS, MongoDB, and Streamlit, this project consolidates multiple state-of-the-art AI architectures into a single interactive dashboard with real-time state visualization, fallback resiliency, and persistent cross-session memory.
 
-## 📸 Application Previews
-
-*(Replace file paths in the `assets/` directory with your actual image filenames)*
-
-### Main Dashboard Hub
-![ain Dashboard Hub](assets/img1.png)
-
-### Corrective RAG (CRAG)
-![corrective rag](assets/img2.png)
-
-
-### Self-RAG Intelligence
-![Self-RAG Intelligence](assets/img4.png)
-
-### Multi-Tool AI Research Agent
-![Multi-Tool AI Research Agent](assets/img3.png)
-
-
 
 ## 🌟 Core Architectures & Features
 
@@ -209,15 +191,6 @@ MONGODB_URI = "your_mongodb_connection_string"
 
 Click Deploy!
 
-## 👨‍💻 Author
-
-**Aditya Singh**
-
-B.Tech in Electronics & Communication Engineering (ECE), MANIT Bhopal
-
-💼 LinkedIn: thakuraditya05  
-💻 GitHub: thakuraditya05  
-🌐 Portfolio: thakur-aditya05.vercel.app
 
 ## 📝 License
 
